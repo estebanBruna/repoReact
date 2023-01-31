@@ -13,6 +13,34 @@
   }
 }
 
+p{
+  text-align: center;
+}
+
+nav{
+  padding: 0 20px;
+}
+
+nav ul{
+  margin: 0 5px;
+}
+
+span {
+  padding: 5px;
+}
+
+.titulo{
+  text-align: center;
+}
+
+
+
+.cartIcon {
+  width: 24px;
+  height: 24px;
+  margin-top: 20px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
